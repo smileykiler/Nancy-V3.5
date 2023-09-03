@@ -2,7 +2,6 @@
 <p align="center">
 <p align="center">
   <img src="https://telegra.ph/file/c13393262ab2c755d5519.jpg" alt="Nancy V3.5 Logo">
-</p>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
