@@ -6,7 +6,7 @@
   𝓝𝓪𝓷𝓬𝔂 𝓑𝓸𝓽 V3.5 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+Nancy+Bot+V3.5!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Hacker+Jt+!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ɴᴀɴᴄʏ+ʙᴏᴛ+ᴠ3.5!;ᴇᴅɪᴛɪɴɢ+ʙʏ+ʜᴀᴄᴋᴇʀ+ᴊʀ+!;ᴀ+sɪᴍᴘʟᴇ+ᴀɴᴅ+ᴘᴏᴡᴇʀꜰᴜʟ+ʙᴏᴛ!;ɪɴᴅᴇxᴇs+ꜰɪʟᴇs+ᴀʙᴏᴜᴛ+4ɢʙ+ᴀ+ʙᴏᴛ+ᴡɪᴛʜ+ᴅᴏᴜʙʟᴇ+ʙᴜᴛᴛᴏɴ!;sᴛᴀʀᴛ+ᴍᴇssᴀɢᴇ+ᴡɪᴛʜ+ᴘɪᴄ+ᴀɴᴅ+ᴍᴏʀᴇ+ꜰᴇᴀᴛᴜʀᴇs!)
 </p>   
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 <img src="https://media.giphy.com/media/Ul4u1oVoVB9Z6wBQCO/giphy.gif" width=40px height=40px>&nbsp;
