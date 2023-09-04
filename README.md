@@ -12,9 +12,6 @@
 
 ### Deploy <img src="https://media.giphy.com/media/Ul4u1oVoVB9Z6wBQCO/giphy.gif" width=40px height=40px>&nbsp;
 
-* Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
-
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
